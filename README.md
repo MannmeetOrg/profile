@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Manmeet Ahir
 
-🚀 **Cloud & DevOps Engineer | AWS Solution Architect | Terraform & Automation Expert**
+🚀 **Cloud & DevOps Engineer | AWS Solution Architect | Terraform & Automation Expert | AI Enthusiast**
 
 ---
 
